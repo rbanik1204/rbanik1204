@@ -1,5 +1,7 @@
 <img src="./banner_github.png" alt="Banner" />
-🔗 **Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/).**
+[![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/ratul-banik1204/)
+🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
+
 # Hello World! I'm Ratul 👋🏼
 
 ```python
