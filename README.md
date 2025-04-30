@@ -1,13 +1,14 @@
 <img src="./banner_github.png" alt="Banner" />
 
 ```python
-# Hello World program in Python
+# Hello World! Welcome to my Github
 def greet():
     print("Hello World!")
     print("I'm Ratul 👋🏼")
 
 if __name__ == "__main__":
     greet()
+```
 
 🎯 **Current Focus:**  
 Solving DSA problems on **LeetCode** and **HackerRank**, and mastering **MERN stack development**.
