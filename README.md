@@ -1,3 +1,4 @@
+<img src="./banner_github.png" alt="Banner" />
 # Hello World! I'm Ratul 👋🏼
 
 🎯 **Current Focus:**  
