@@ -1,12 +1,6 @@
-[![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/ratul-banik1204/)
-
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
-
 <img src="./banner_github.png" alt="Banner" />
 # Hello World! I'm Ratul 👋🏼
-...
-
-<img src="./banner_github.png" alt="Banner" />
 
 ```python
 # Hello World! Welcome to my Github
