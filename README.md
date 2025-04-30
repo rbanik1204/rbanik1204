@@ -1,12 +1,19 @@
 <img src="./banner_github.png" alt="Banner" />
-# Hello World! I'm Ratul 👋🏼
+
+```python
+# Hello World program in Python
+def greet():
+    print("Hello World!")
+    print("I'm Ratul 👋🏼")
+
+if __name__ == "__main__":
+    greet()
 
 🎯 **Current Focus:**  
 Solving DSA problems on **LeetCode** and **HackerRank**, and mastering **MERN stack development**.
 
 🎓 **Education:**  
-Pursuing **B.Tech in Computer Science & Engineering**  
-YGPA: **8.70**
+Pursuing **B.Tech in Computer Science & Engineering (2023–2027)**
 
 🛠 **Experience:**  
 - 200+ hours dedicated to hands-on problem-solving  
@@ -36,6 +43,13 @@ YGPA: **8.70**
 
 ---
 
+## 👨‍💻 Competitive Programming
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/ratulbanik2004)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/r_b0412/)
+
+---
+
 ## 🤝 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
@@ -53,3 +67,4 @@ YGPA: **8.70**
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake.svg" />
 </picture>
+
