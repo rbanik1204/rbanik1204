@@ -95,7 +95,7 @@
 
 ---
 
-## 🌟 **Premium Skill Matrix**
+## 🌟 **Skill Matrix**
 
 ### 🎯 **Experience Levels**
 <table width="100%">
