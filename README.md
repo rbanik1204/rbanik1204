@@ -58,11 +58,11 @@
 
 ### 💻 **Programming Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C 90%"/>
-  <img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 60%"/>
-  <img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 75%"/>
-  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 75%"/>
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <blockquote>
@@ -71,52 +71,52 @@
 
 ### 🌐 **Web Fundamentals**
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 90%"/>
-  <img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 90%"/>
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <blockquote>
-  Proficient in building semantic, accessible, and responsive web interfaces with modern standards.
+  Building semantic, accessible, and responsive web interfaces with modern standards.
 </blockquote>
 
 ### ⚡ **Frameworks & Libraries**
 <p align="center">
-  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 40%"/>
-  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 40%"/>
-  <img src="https://img.shields.io/badge/Express-40%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 40%"/>
-  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 40%"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-40%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS 40%"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
 </p>
 
 <blockquote>
-  Actively building full-stack applications with the MERN stack and modern development tools.
+  Actively learning and building full-stack applications with the MERN stack and modern development tools.
 </blockquote>
 
 ---
 
 ## 🌟 **Premium Skill Matrix**
 
-### 🎯 **Expertise Levels**
+### 🎯 **Experience Levels**
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <h4>🚀 Advanced (90-100%)</h4>
-      <img src="https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Advanced"/>
+      <h4>🚀 **Strong Foundation**</h4>
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/HTML/CSS-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS Advanced"/>
+      <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/>
     </td>
     <td width="33%" align="center">
-      <h4>⚡ Proficient (70-89%)</h4>
-      <img src="https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Proficient"/>
+      <h4>⚡ **Good Understanding**</h4>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Proficient"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </td>
     <td width="33%" align="center">
-      <h4>🌱 Learning (40-69%)</h4>
-      <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Learning"/>
+      <h4>🌱 **Currently Learning**</h4>
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Learning"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     </td>
   </tr>
 </table>
@@ -128,39 +128,35 @@
   <strong>Goal:</strong> Full Stack Internship & MERN Mastery
 </p>
 
-### 🎯 **Goal Tracker & Milestones**
+### 🎯 **Current Learning Focus**
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h4>🚀 **MERN Stack Mastery**</h4>
-      <div style="background: #f0f0f0; border-radius: 10px; padding: 10px; margin: 10px;">
-        <div style="background: #61DAFB; height: 20px; border-radius: 10px; width: 40%; text-align: center; color: white; line-height: 20px;">40%</div>
-      </div>
-      <strong>Current: Learning React & Node.js</strong>
+      <h4>🚀 **MERN Stack Development**</h4>
+      <strong>Status: Actively Learning</strong>
+      <br/><br/>
+      <em>Currently working on React, Node.js, and Express fundamentals</em>
     </td>
     <td width="50%" align="center">
-      <h4>💼 **Full Stack Internship**</h4>
-      <div style="background: #f0f0f0; border-radius: 10px; padding: 10px; margin: 10px;">
-        <div style="background: #28a745; height: 20px; border-radius: 10px; width: 25%; text-align: center; color: white; line-height: 20px;">25%</div>
-      </div>
+      <h4>💼 **Career Preparation**</h4>
       <strong>Status: Building Portfolio</strong>
+      <br/><br/>
+      <em>Working on projects and improving skills for opportunities</em>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <h4>🧠 **DSA & Problem Solving**</h4>
-      <div style="background: #f0f0f0; border-radius: 10px; padding: 10px; margin: 10px;">
-        <div style="background: #ffc107; height: 20px; border-radius: 10px; width: 70%; text-align: center; color: white; line-height: 20px;">70%</div>
-      </div>
-      <strong>Current: LeetCode & HackerRank</strong>
+      <strong>Status: Regular Practice</strong>
+      <br/><br/>
+      <em>Solving problems on LeetCode and HackerRank</em>
     </td>
     <td width="50%" align="center">
       <h4>🤖 **AI & Machine Learning**</h4>
-      <div style="background: #f0f0f0; border-radius: 10px; padding: 10px; margin: 10px;">
-        <div style="background: #17a2b8; height: 20px; border-radius: 10px; width: 30%; text-align: center; color: white; line-height: 20px;">30%</div>
-      </div>
-      <strong>Current: Basic Python ML</strong>
+      <strong>Status: Basic Understanding</strong>
+      <br/><br/>
+      <em>Learning Python fundamentals and basic ML concepts</em>
     </td>
   </tr>
 </table>
@@ -242,10 +238,10 @@
 *Coming Soon! I'm currently building amazing projects that will be showcased here once they're ready for GitHub.* 🚀
 
 **What I'm Working On:**
-- **🤖 AI/ML Projects** - Python-based machine learning applications
-- **🌐 Web Development** - MERN stack full-stack applications  
-- **🔧 IoT & Hardware** - ESP8266 and sensor-based projects
-- **📱 Mobile Apps** - React Native and progressive web apps
+- **🤖 AI/ML Projects** - Learning Python and basic ML concepts
+- **🌐 Web Development** - Building MERN stack applications  
+- **🔧 Learning Projects** - Small applications to practice coding
+- **📱 Web Apps** - Building responsive web applications
 
 ### 🏆 **Achievement Highlights**
 
@@ -270,15 +266,15 @@
   </tr>
 </table>
 
-### 📈 **Progress Tracking**
+### 📈 **Current Learning Status**
 
 <p align="center">
-  <strong>Current Milestones:</strong>
+  <strong>Technologies I'm Currently Working With:</strong>
   <br/>
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Progress"/>
-  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Progress"/>
-  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Progress"/>
-  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Progress"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
 ---
@@ -293,18 +289,18 @@
 </p>
 
 ### 🚀 **Collaboration Opportunities**
-- **🤖 AI/ML Projects** - Natural Language Processing, Chatbots, Data Analysis
-- **🌐 Web Development** - React, Node.js, Full-Stack Applications
-- **📱 Mobile Apps** - React Native, Progressive Web Apps
-- **🔧 Developer Tools** - VS Code Extensions, CLI Tools, APIs
-- **📚 Educational Content** - Tutorials, Documentation, Code Examples
+- **🤖 AI/ML Projects** - Basic Python projects, learning ML concepts
+- **🌐 Web Development** - React, Node.js, building web applications
+- **📱 Learning Together** - Exploring new technologies and frameworks
+- **🔧 Project Building** - Working on small applications and tools
+- **📚 Knowledge Sharing** - Learning from others and sharing what I learn
 
-### 💡 **What I Bring to the Table**
-- **Problem-Solving Skills** - Strong DSA foundation from LeetCode/HackerRank
-- **Full-Stack Knowledge** - MERN stack development experience
-- **AI/ML Experience** - Python-based machine learning projects
-- **Hardware Integration** - IoT and sensor-based projects
-- **Team Collaboration** - Open to learning and contributing
+### 💡 **What I'm Learning & Building**
+- **Problem-Solving Skills** - Building DSA foundation through LeetCode/HackerRank
+- **Full-Stack Development** - Learning MERN stack fundamentals
+- **AI/ML Basics** - Exploring Python and basic machine learning concepts
+- **Project Building** - Working on small projects to apply knowledge
+- **Collaboration** - Open to learning from and working with others
 
 ### 📫 **Get in Touch for Collaboration**
 <p align="center">
@@ -317,28 +313,28 @@
 
 ## 📱 **Mobile-First Design & Interactive Elements**
 
-### 🎨 **Responsive Grid Layout**
+### 🎨 **Design Features**
 <div align="center">
   
   <table width="100%">
     <tr>
       <td width="33%" align="center">
-        <h4>📱 **Mobile Optimized**</h4>
-        <img src="https://img.shields.io/badge/Responsive-100%25-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Mobile Responsive"/>
+        <h4>📱 **Mobile Friendly**</h4>
+        <img src="https://img.shields.io/badge/Responsive-Design-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Mobile Responsive"/>
         <br/><br/>
-        <strong>Perfect on all devices</strong>
+        <strong>Optimized for all devices</strong>
       </td>
       <td width="33%" align="center">
-        <h4>⚡ **Fast Loading**</h4>
-        <img src="https://img.shields.io/badge/Speed-Optimized-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Fast Loading"/>
+        <h4>⚡ **Clean Layout**</h4>
+        <img src="https://img.shields.io/badge/Clean-Code-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Clean Code"/>
         <br/><br/>
-        <strong>Lightning fast performance</strong>
+        <strong>Well-organized structure</strong>
       </td>
       <td width="33%" align="center">
-        <h4>🎯 **SEO Friendly**</h4>
-        <img src="https://img.shields.io/badge/SEO-Optimized-61dafb?style=for-the-badge&logo=github&logoColor=black" alt="SEO Optimized"/>
+        <h4>🎯 **Professional**</h4>
+        <img src="https://img.shields.io/badge/Professional-README-61dafb?style=for-the-badge&logo=github&logoColor=black" alt="Professional README"/>
         <br/><br/>
-        <strong>Search engine optimized</strong>
+        <strong>Industry standard format</strong>
       </td>
     </tr>
   </table>
@@ -358,25 +354,25 @@
 
 </details>
 
-### 🏆 **Performance & Quality Metrics**
+### 🏆 **README Features**
 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h4>📊 **Code Quality**</h4>
-      <img src="https://img.shields.io/badge/Quality-Premium-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Code Quality"/>
+      <h4>📊 **Content Quality**</h4>
+      <img src="https://img.shields.io/badge/Content-Professional-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Professional Content"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Standards-Best_Practices-blue?style=for-the-badge&logo=github&logoColor=white" alt="Best Practices"/>
+      <img src="https://img.shields.io/badge/Structure-Organized-blue?style=for-the-badge&logo=github&logoColor=white" alt="Well Organized"/>
       <br/><br/>
-      <strong>Professional grade code</strong>
+      <strong>Clear and informative</strong>
     </td>
     <td width="50%" align="center">
-      <h4>🚀 **Performance**</h4>
-      <img src="https://img.shields.io/badge/Speed-Fast-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Fast Performance"/>
+      <h4>🚀 **User Experience**</h4>
+      <img src="https://img.shields.io/badge/Design-Clean-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Clean Design"/>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Loading-Optimized-61dafb?style=for-the-badge&logo=github&logoColor=black" alt="Optimized Loading"/>
+      <img src="https://img.shields.io/badge/Layout-Professional-61dafb?style=for-the-badge&logo=github&logoColor=black" alt="Professional Layout"/>
       <br/><br/>
-      <strong>Lightning fast experience</strong>
+      <strong>Easy to navigate</strong>
     </td>
   </tr>
 </table>
@@ -401,7 +397,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 <blockquote>
-  I am actively learning and building projects with the <strong>MERN stack</strong> to create modern, responsive, and scalable web applications from end to end.
+  I am actively learning and building projects with the <strong>MERN stack</strong> to develop web applications and gain practical experience.
 </blockquote>
 
 ### 🌐 **Web Fundamentals**
@@ -411,21 +407,21 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 </p>
 <blockquote>
-  With a solid and proficient understanding of core web technologies, I can build semantic, accessible, and pixel-perfect user interfaces.
+  Building a solid foundation in core web technologies to create semantic, accessible, and responsive user interfaces.
 </blockquote>
 
 ---
 
 ### 🧰 **Tech Stack & Tools**
 
-I have experience with a diverse range of technologies, which I have organized by category below.
+I am learning and working with various technologies, which I have organized by category below.
 
 | Category | Technologies |
 | :--- | :--- |
 | **Languages** | <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> |
 | **Frontend Development** | <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/> <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/> |
-| **Backend Development** | <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/> |
-| **Databases** | <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/> |
+| **Backend Development** | <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/> |
+| **Databases** | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> |
 | **Developer Tools** | <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> |
 
 ---
@@ -536,7 +532,7 @@ I'm always excited to work on innovative projects and learn from amazing develop
   ---
   
   <p align="center">
-    <strong>Made with ❤️ by Ratul Banik</strong>
+    <strong>Made with ❤️ by rb</strong>
     <br/>
     <em>B.Tech CSE | AI & Web Developer | Open Source Enthusiast</em>
   </p>
