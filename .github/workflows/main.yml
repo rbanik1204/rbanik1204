@@ -30,6 +30,7 @@ jobs:
         with:
           github_user_name: ${{ env.GITHUB_USER }}
           outputs: dist/github-snake.svg
+          svg_out_path: dist/github-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -38,6 +39,20 @@ jobs:
         with:
           github_user_name: ${{ env.GITHUB_USER }}
           outputs: dist/github-contribution-grid-snake-dark.svg
+          svg_out_path: dist/github-contribution-grid-snake-dark.svg
+          snake_color: 'blue'
+          snake_outline_color: 'dark'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate Ocean Theme Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: dist/github-contribution-grid-snake-ocean.svg
+          svg_out_path: dist/github-contribution-grid-snake-ocean.svg
+          snake_color: 'cyan'
+          snake_outline_color: 'blue'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 

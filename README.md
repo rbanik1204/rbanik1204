@@ -461,13 +461,17 @@ Feel free to reach out. I'm always open to connecting with new people!
 ### 🎨 **Alternative Snake Styles**
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <strong>🌊 Dark Theme</strong><br/>
-             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="400"/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="300"/>
     </td>
-    <td width="50%" align="center">
+    <td width="33%" align="center">
       <strong>🎨 Classic Theme</strong><br/>
-             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg" alt="Classic Snake" width="400"/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg" alt="Classic Snake" width="300"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>🌊 Ocean Theme</strong><br/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-ocean.svg" alt="Ocean Snake" width="300"/>
     </td>
   </tr>
 </table>
@@ -478,8 +482,9 @@ Feel free to reach out. I'm always open to connecting with new people!
 This snake animation is generated automatically by GitHub Actions using the Platane/snk action:
 
 - **Update Frequency**: Daily at midnight UTC
-- **Themes Available**: Dark, Classic
+- **Themes Available**: Classic, Dark, Ocean
 - **Auto-Trigger**: Updates on every push to master branch
+- **Color Themes**: Each theme has unique snake colors and styles
 - **Simple & Reliable**: Streamlined workflow for consistent generation
 
 [View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/main.yml)
@@ -531,7 +536,7 @@ I'm always excited to work on innovative projects and learn from amazing develop
   <p align="center">
     <strong>Made with ❤️ by rb</strong>
     <br/>
-    <em>B.Tech CSE | AI & Web Developer | Open Source Enthusiast</em>
+    <em>B.Tech CSE | PY & Web Developer | Open Source Enthusiast</em>
   </p>
   
 </div>
