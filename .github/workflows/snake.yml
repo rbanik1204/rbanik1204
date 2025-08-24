@@ -57,11 +57,10 @@ jobs:
           echo "File sizes:"
           du -h output/*
 
-      # Step 6: Commit and Push Changes
-      - name: 📝 Commit and Push Changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add output/
-          git commit -m "🐍 Update snake animations [skip ci]" || echo "No changes to commit"
-          git push
+      # Step 6: Upload Artifacts
+      - name: 📤 Upload Snake Files
+        uses: actions/upload-artifact@v3
+        with:
+          name: snake-files
+          path: output/
+          retention-days: 30
