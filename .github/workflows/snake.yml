@@ -24,46 +24,7 @@ jobs:
   generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 15
-    strategy:
-      matrix:
-        include:
-          # Matrix for different snake styles and themes
-          - name: "Classic Snake"
-            output: "github-snake.svg"
-            palette: "github"
-            color_snake: "#00ff00"
-            color_dots: "#1b1f23,#21262d,#30363d,#484f58,#656d76"
-          
-          - name: "Dark Theme Snake"
-            output: "github-snake-dark.svg"
-            palette: "github-dark"
-            color_snake: "#61dafb"
-            color_dots: "#0d1117,#161b22,#21262d,#30363d,#484f58"
-          
-          - name: "Ocean Theme Snake"
-            output: "github-snake-ocean.svg"
-            palette: "github-dark"
-            color_snake: "#00d4ff"
-            color_dots: "#001f3f,#003366,#004080,#0056b3,#0066cc"
-          
-          - name: "Sunset Theme Snake"
-            output: "github-snake-sunset.svg"
-            palette: "github-dark"
-            color_snake: "#ff6b35"
-            color_dots: "#2c1810,#4a2c1a,#6b3f24,#8c522e,#ad6538"
-          
-          - name: "Neon Theme Snake"
-            output: "github-snake-neon.svg"
-            palette: "github-dark"
-            color_snake: "#ff00ff"
-            color_dots: "#1a0033,#330066,#4d0099,#6600cc,#8000ff"
-          
-          - name: "Forest Theme Snake"
-            output: "github-snake-forest.svg"
-            palette: "github-dark"
-            color_snake: "#00ff88"
-            color_dots: "#0d2b1a,#1a4d33,#266f4d,#339166,#40b380"
-
+    
     steps:
       # Step 1: Checkout Repository
       - name: 🚀 Checkout Repository
@@ -71,44 +32,67 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Step 2: Setup Node.js for additional processing
-      - name: 📦 Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-
-      # Step 3: Generate Multiple Snake Animations
-      - name: 🐍 Generate ${{ matrix.name }}
+      # Step 2: Generate Dark Theme Snake
+      - name: 🌙 Generate Dark Theme Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ env.GITHUB_USER }}
           outputs: |
-            ${{ env.SNAKE_OUTPUT_DIR }}/${{ matrix.output }}?palette=${{ matrix.palette }}&color_snake=${{ matrix.color_snake }}&color_dots=${{ matrix.color_dots }}
+            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-dark.svg?palette=github-dark&color_snake=#61dafb&color_dots=#0d1117,#161b22,#21262d,#30363d,#484f58
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: Generate Animated GIF Version
-      - name: 🎬 Generate Animated GIF
+      # Step 3: Generate Ocean Theme Snake
+      - name: 🌊 Generate Ocean Theme Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ env.GITHUB_USER }}
           outputs: |
-            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-animated.gif?color_snake=${{ matrix.color_snake }}&color_dots=${{ matrix.color_dots }}&animation=true
+            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-ocean.svg?palette=github-dark&color_snake=#00d4ff&color_dots=#001f3f,#003366,#004080,#0056b3,#0066cc
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 5: Generate Special Effects Versions
-      - name: ✨ Generate Glow Effect Snake
+      # Step 4: Generate Sunset Theme Snake
+      - name: 🌅 Generate Sunset Theme Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ env.GITHUB_USER }}
           outputs: |
-            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-glow.svg?palette=${{ matrix.palette }}&color_snake=${{ matrix.color_snake }}&color_dots=${{ matrix.color_dots }}&glow=true
+            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-sunset.svg?palette=github-dark&color_snake=#ff6b35&color_dots=#2c1810,#4a2c1a,#6b3f24,#8c522e,#ad6538
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # Additional job for creating a comprehensive snake showcase
+      # Step 5: Generate Neon Theme Snake
+      - name: 💫 Generate Neon Theme Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: |
+            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-neon.svg?palette=github-dark&color_snake=#ff00ff&color_dots=#1a0033,#330066,#4d0099,#6600cc,#8000ff
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 6: Generate Forest Theme Snake
+      - name: 🌲 Generate Forest Theme Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: |
+            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake-forest.svg?palette=github-dark&color_snake=#00ff88&color_dots=#0d2b1a,#1a4d33,#266f4d,#339166,#40b380
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 7: Generate Classic Theme Snake
+      - name: 🎨 Generate Classic Theme Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: |
+            ${{ env.SNAKE_OUTPUT_DIR }}/github-snake.svg?palette=github&color_snake=#00ff00&color_dots=#1b1f23,#21262d,#30363d,#484f58,#656d76
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Create showcase and documentation
   create-showcase:
     runs-on: ubuntu-latest
     needs: generate-snake
@@ -118,13 +102,7 @@ jobs:
       - name: 🚀 Checkout Repository
         uses: actions/checkout@v4
 
-      - name: 📦 Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-
-      - name: 🔧 Create Snake Showcase HTML
+      - name: 📝 Create Snake Showcase HTML
         run: |
           cat > ${{ env.SNAKE_OUTPUT_DIR }}/snake-showcase.html << 'EOF'
           <!DOCTYPE html>
@@ -195,8 +173,8 @@ jobs:
                           <img src="github-snake-forest.svg" alt="Forest Theme Snake">
                       </div>
                       <div class="snake-item">
-                          <h3>🎬 Animated GIF</h3>
-                          <img src="github-snake-animated.gif" alt="Animated Snake">
+                          <h3>🎨 Classic Theme</h3>
+                          <img src="github-snake.svg" alt="Classic Theme Snake">
                       </div>
                   </div>
                   <div class="stats">
@@ -230,8 +208,7 @@ jobs:
           | 🌅 Sunset | `github-snake-sunset.svg` | Warm sunset orange tones |
           | 💫 Neon | `github-snake-neon.svg` | Vibrant neon purple theme |
           | 🌲 Forest | `github-snake-forest.svg` | Natural forest green palette |
-          | 🎬 Animated | `github-snake-animated.gif` | Animated GIF version |
-          | ✨ Glow | `github-snake-glow.svg` | Glowing effect version |
+          | 🎨 Classic | `github-snake.svg` | Traditional GitHub theme |
           
           ## 🚀 Usage
           

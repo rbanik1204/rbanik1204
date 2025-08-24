@@ -210,9 +210,51 @@ Feel free to reach out. I'm always open to connecting with new people!
 ---
 ## 🐍 GitHub Snake Contribution Animation
 
-![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-dark.svg)
+### 🌟 **Main Contribution Snake**
+![GitHub Snake Dark](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-dark.svg)
 
-<!-- Or use any other theme: -->
-![Ocean Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-ocean.svg)
-![Neon Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-neon.svg)
+### 🎨 **Multiple Theme Variations**
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <strong>🌊 Ocean Theme</strong><br/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-ocean.svg" alt="Ocean Snake" width="400"/>
+    </td>
+    <td width="50%" align="center">
+      <strong>💫 Neon Theme</strong><br/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-neon.svg" alt="Neon Snake" width="400"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>🌅 Sunset Theme</strong><br/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-sunset.svg" alt="Sunset Snake" width="400"/>
+    </td>
+    <td width="50%" align="center">
+      <strong>🌲 Forest Theme</strong><br/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-forest.svg" alt="Forest Snake" width="400"/>
+    </td>
+  </tr>
+</table>
+
+### 🎬 **Animated Version**
+<p align="center">
+  <strong>🎬 Animated GIF Snake</strong><br/>
+  <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-animated.gif" alt="Animated Snake" width="600"/>
+</p>
+
+<details>
+<summary>🔧 <strong>Snake Configuration Details</strong></summary>
+
+This snake animation is generated automatically by GitHub Actions using the enhanced workflow that creates multiple themed versions:
+
+- **Update Frequency**: 3 times daily (midnight, noon, 6 PM UTC)
+- **Themes Available**: Dark, Ocean, Neon, Sunset, Forest, Animated GIF
+- **Auto-Trigger**: Updates on every push and pull request
+- **Custom Colors**: Each theme uses unique color palettes
+
+[View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/snake.yml)
+[View All Outputs →](https://github.com/rbanik1204/rbanik1204/tree/output)
+
+</details>
 
