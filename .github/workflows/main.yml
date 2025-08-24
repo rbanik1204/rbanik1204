@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
-    branches: [main, master]
+    branches: [master]
 
 env:
   GITHUB_USER: rbanik1204
