@@ -57,13 +57,36 @@ This dashboard provides an overview of my coding activity, achievements, and cor
 ---
 ### 🎯 Core Competencies & Focus Areas
 
-![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-95%25-blue?style=for-the-badge)
-![C](https://img.shields.io/badge/C-90%25-brightgreen?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-75%25-yellowgreen?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-60%25-yellow?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-60%25-lightgrey?style=for-the-badge)
-![React](https://img.shields.io/badge/React-40%25-blueviolet?style=for-the-badge)
+#### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-▰▰▰▰▰▰▰▰▰▱-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-▰▰▰▰▰▰▱▱▱▱-00599C?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-▰▰▰▰▰▰▰▰▱▱-ED8B00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-▰▰▰▰▰▰▰▰▱▱-3776AB?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-▰▰▰▰▰▰▱▱▱▱-F7DF1E?style=for-the-badge&logoColor=black)
+
+<blockquote>
+  Strong foundation in core programming languages with focus on problem-solving and algorithmic thinking.
+</blockquote>
+
+#### 🌐 Web Fundamentals
+![HTML](https://img.shields.io/badge/HTML-▰▰▰▰▰▰▰▰▰▱-E34F26?style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-▰▰▰▰▰▰▰▰▰▱-1572B6?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-▰▰▰▰▰▰▱▱▱▱-F7DF1E?style=for-the-badge&logoColor=black)
+
+<blockquote>
+  Proficient in building semantic, accessible, and responsive web interfaces with modern standards.
+</blockquote>
+
+#### ⚡ Frameworks & Libraries
+![React](https://img.shields.io/badge/React-▰▰▰▰▱▱▱▱▱▱-61DAFB?style=for-the-badge&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-▰▰▰▰▱▱▱▱▱▱-339933?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-▰▰▰▰▱▱▱▱▱▱-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-▰▰▰▰▱▱▱▱▱▱-47A248?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-▰▰▰▰▱▱▱▱▱▱-38B2AC?style=for-the-badge)
+
+<blockquote>
+  Actively building full-stack applications with the MERN stack and modern development tools.
+</blockquote>
 ### 🚀 Data Structures & Algorithms
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
