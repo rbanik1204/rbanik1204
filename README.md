@@ -239,42 +239,13 @@
 ## 🚀 **Featured Projects & Achievements**
 
 ### 🎯 **Project Showcase**
+*Coming Soon! I'm currently building amazing projects that will be showcased here once they're ready for GitHub.* 🚀
 
-<details>
-<summary>🤖 <strong>AI Help Bot for MOSDAC</strong> - Click to expand</summary>
-
-**Tech Stack:** Python, AI/ML, Natural Language Processing  
-**Description:** Intelligent chatbot system designed to assist users with MOSDAC queries and provide automated support.  
-**Highlights:** 
-- Advanced NLP implementation
-- Context-aware responses
-- Scalable architecture
-
-</details>
-
-<details>
-<summary>🚗 <strong>RC Car Project (ESP8266 + Sensors)</strong> - Click to expand</summary>
-
-**Tech Stack:** C++, ESP8266, IoT, Sensors  
-**Description:** Smart remote-controlled car with integrated sensors for autonomous navigation and obstacle detection.  
-**Highlights:**
-- Real-time sensor data processing
-- Wireless communication
-- Hardware-software integration
-
-</details>
-
-<details>
-<summary>📁 <strong>P2P File Sharing System</strong> - Click to expand</summary>
-
-**Tech Stack:** Python, Networking, Peer-to-Peer Architecture  
-**Description:** Decentralized file sharing system enabling direct file transfer between users without central servers.  
-**Highlights:**
-- Efficient P2P protocols
-- Secure file transfer
-- Cross-platform compatibility
-
-</details>
+**What I'm Working On:**
+- **🤖 AI/ML Projects** - Python-based machine learning applications
+- **🌐 Web Development** - MERN stack full-stack applications  
+- **🔧 IoT & Hardware** - ESP8266 and sensor-based projects
+- **📱 Mobile Apps** - React Native and progressive web apps
 
 ### 🏆 **Achievement Highlights**
 
@@ -285,12 +256,16 @@
       <img src="https://img.shields.io/badge/B.Tech_CSE-2023--2027-3776AB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech CSE"/>
       <br/><br/>
       <strong>Computer Science Engineering</strong>
+      <br/>
+      <em>Currently pursuing with focus on AI & Web Development</em>
     </td>
     <td width="50%" align="center">
       <h4>🚀 Career Goals</h4>
       <img src="https://img.shields.io/badge/Goal-Full_Stack_Internship-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack Internship"/>
       <br/><br/>
       <strong>MERN Stack Mastery</strong>
+      <br/>
+      <em>Building portfolio and learning actively</em>
     </td>
   </tr>
 </table>
