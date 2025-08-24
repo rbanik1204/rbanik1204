@@ -211,18 +211,18 @@ Feel free to reach out. I'm always open to connecting with new people!
 ## 🐍 GitHub Snake Contribution Animation
 
 ### 🌟 **Main Contribution Snake**
-![GitHub Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake.svg)
 
 ### 🎨 **Alternative Snake Styles**
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <strong>🌊 Dark Theme</strong><br/>
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="400"/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="400"/>
     </td>
     <td width="50%" align="center">
       <strong>🎨 Classic Theme</strong><br/>
-      <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Classic Snake" width="400"/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake.svg" alt="Classic Snake" width="400"/>
     </td>
   </tr>
 </table>
