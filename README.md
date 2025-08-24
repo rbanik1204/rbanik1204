@@ -211,18 +211,18 @@ Feel free to reach out. I'm always open to connecting with new people!
 ## 🐍 GitHub Snake Contribution Animation
 
 ### 🌟 **Main Contribution Snake**
-![GitHub Snake Dark](https://raw.githubusercontent.com/rbanik1204/rbanik1204/main/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake.svg)
 
-### 🎨 **Multiple Theme Variations**
+### 🎨 **Alternative Snake Styles**
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <strong>🌊 Ocean Theme</strong><br/>
-      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/main/github-snake-ocean.svg" alt="Ocean Snake" width="400"/>
+      <strong>🌊 Dark Theme</strong><br/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="400"/>
     </td>
     <td width="50%" align="center">
       <strong>🎨 Classic Theme</strong><br/>
-      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/main/github-snake.svg" alt="Classic Snake" width="400"/>
+      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake.svg" alt="Classic Snake" width="400"/>
     </td>
   </tr>
 </table>
@@ -230,14 +230,16 @@ Feel free to reach out. I'm always open to connecting with new people!
 <details>
 <summary>🔧 <strong>Snake Configuration Details</strong></summary>
 
-This snake animation is generated automatically by GitHub Actions using a simplified workflow that creates clean, themed versions:
+This snake animation is generated automatically by GitHub Actions using the Platane/snk action:
 
 - **Update Frequency**: Daily at midnight UTC
-- **Themes Available**: Dark, Ocean, Classic
+- **Themes Available**: Dark, Classic
 - **Auto-Trigger**: Updates on every push to main branch
 - **Simple & Reliable**: Streamlined workflow for consistent generation
 
 [View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/snake.yml)
+
+**Note**: The snake images will appear once the workflow runs successfully. You can manually trigger it from the Actions tab.
 
 </details>
 
