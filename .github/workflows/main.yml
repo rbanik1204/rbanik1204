@@ -1,61 +1,54 @@
-name: GitHub Snake Game
+name: 🐍 Generate Snake Contributions
 
 on:
-  # Schedule the workflow to run daily at midnight UTC
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual triggering of the workflow
   workflow_dispatch:
-  # Trigger the workflow on pushes to the main branch
   push:
-    branches:
-      - main
+    branches: [main, master]
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
-
-concurrency:
-  group: "pages"
-  cancel-in-progress: false
+env:
+  GITHUB_USER: rbanik1204
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
+    
     steps:
-      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v4
-      
-      # Step 2: Generate the snake animations
-      - name: Generate GitHub Contributions Snake Animations
+        with:
+          fetch-depth: 0
+
+      - name: Generate Basic Snake
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
-          github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: dist/github-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      
-      # Step 3: Upload the generated files as Pages artifact
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist
 
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    needs: generate
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4
+      - name: Generate Dark Theme Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ env.GITHUB_USER }}
+          outputs: dist/github-contribution-grid-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: List Generated Files
+        run: |
+          echo "Generated snake files:"
+          ls -la dist/
+          echo "File sizes:"
+          du -h dist/*
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add dist/
+          git diff --staged --quiet || git commit -m "🐍 Update snake animations [skip ci]"
+          git push
