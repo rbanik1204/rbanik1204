@@ -29,7 +29,41 @@
 * 📫 You can reach me at **ratulbanik1204@gmail.com**.
 
 ---
+### 📊 My GitHub Stats & Trophies
+
+This dashboard provides an overview of my coding activity, achievements, and core focus areas.
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+            <img src="https://github-readme-stats.vercel.app/api?username=rbanik1204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="Ratul's GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbanik1204&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" alt="Ratul's Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Ratul's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rbanik1204&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
 ### 🎯 Core Competencies & Focus Areas
+
+![HTML & CSS](https://img.shields.io/badge/HTML%20%26%20CSS-95%25-blue?style=for-the-badge)
+![C](https://img.shields.io/badge/C-90%25-brightgreen?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-75%25-yellowgreen?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-75%25-orange?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-60%25-yellow?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-60%25-lightgrey?style=for-the-badge)
+![React](https://img.shields.io/badge/React-40%25-blueviolet?style=for-the-badge)
 ### 🚀 Data Structures & Algorithms
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
