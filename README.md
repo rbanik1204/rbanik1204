@@ -218,7 +218,7 @@ Feel free to reach out. I'm always open to connecting with new people!
   <tr>
     <td width="50%" align="center">
       <strong>🌊 Dark Theme</strong><br/>
-             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/dist/github-snake-dark.svg" alt="Dark Snake" width="400"/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/dist/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="400"/>
     </td>
     <td width="50%" align="center">
       <strong>🎨 Classic Theme</strong><br/>
