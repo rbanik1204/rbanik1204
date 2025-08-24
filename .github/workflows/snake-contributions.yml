@@ -1,4 +1,4 @@
-name: 🐍 GitHub Snake Contribution Animation
+name: 🐍 Generate Snake Contributions
 
 on:
   schedule:
@@ -11,12 +11,13 @@ env:
   GITHUB_USER: rbanik1204
 
 jobs:
-  generate-snake:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    permissions:
+      contents: write
     
     steps:
-      - name: Checkout Repository
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
@@ -29,7 +30,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate Dark Theme Snake
+      - name: Generate Dark Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ env.GITHUB_USER }}
@@ -37,17 +38,17 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: List Generated Files
+      - name: Show Files
         run: |
-          echo "Generated snake files:"
+          echo "Generated files:"
           ls -la output/
-          echo "File sizes:"
-          du -h output/*
+          echo "File contents:"
+          cat output/*.svg | head -5
 
-      - name: Commit and Push Changes
+      - name: Commit Files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add output/
-          git commit -m "🐍 Update snake animations [skip ci]" || echo "No changes to commit"
+          git diff --staged --quiet || git commit -m "🐍 Update contribution snakes"
           git push

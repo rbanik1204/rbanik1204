@@ -237,7 +237,7 @@ This snake animation is generated automatically by GitHub Actions using the Plat
 - **Auto-Trigger**: Updates on every push to main branch
 - **Simple & Reliable**: Streamlined workflow for consistent generation
 
-[View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/github-snake.yml)
+[View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/snake-contributions.yml)
 
 **Note**: The snake images will appear once the workflow runs successfully. You can manually trigger it from the Actions tab.
 
