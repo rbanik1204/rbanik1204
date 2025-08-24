@@ -2,13 +2,10 @@ name: 🐍 GitHub Snake Contribution Animation
 
 on:
   schedule:
-    # Daily at midnight UTC
     - cron: "0 0 * * *"
-  workflow_dispatch:           # Manual trigger
+  workflow_dispatch:
   push:
-    branches:
-      - main
-      - master
+    branches: [main, master]
 
 env:
   GITHUB_USER: rbanik1204
@@ -19,46 +16,35 @@ jobs:
     timeout-minutes: 10
     
     steps:
-      # Step 1: Checkout Repository
-      - name: 🚀 Checkout Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # Step 2: Create Output Directory
-      - name: 📁 Create Output Directory
-        run: mkdir -p output
-
-      # Step 3: Generate Basic Snake
-      - name: 🐍 Generate GitHub Snake
+      - name: Generate Basic Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ env.GITHUB_USER }}
-          outputs: |
-            output/github-contribution-grid-snake.svg
+          outputs: output/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: Generate Dark Theme Snake
-      - name: 🌙 Generate Dark Theme Snake
+      - name: Generate Dark Theme Snake
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ env.GITHUB_USER }}
-          outputs: |
-            output/github-contribution-grid-snake-dark.svg
+          outputs: output/github-contribution-grid-snake-dark.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 5: List Generated Files
-      - name: 📋 List Generated Files
+      - name: List Generated Files
         run: |
           echo "Generated snake files:"
           ls -la output/
           echo "File sizes:"
           du -h output/*
 
-      # Step 6: Commit and Push Changes
-      - name: 📝 Commit and Push Changes
+      - name: Commit and Push Changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
