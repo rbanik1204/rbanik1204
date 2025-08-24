@@ -211,18 +211,18 @@ Feel free to reach out. I'm always open to connecting with new people!
 ## 🐍 GitHub Snake Contribution Animation
 
 ### 🌟 **Main Contribution Snake**
-![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/dist/github-snake.svg)
 
 ### 🎨 **Alternative Snake Styles**
 <table width="100%">
   <tr>
     <td width="50%" align="center">
       <strong>🌊 Dark Theme</strong><br/>
-      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="400"/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/dist/github-snake-dark.svg" alt="Dark Snake" width="400"/>
     </td>
     <td width="50%" align="center">
       <strong>🎨 Classic Theme</strong><br/>
-      <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-contribution-grid-snake.svg" alt="Classic Snake" width="400"/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/dist/github-snake.svg" alt="Classic Snake" width="400"/>
     </td>
   </tr>
 </table>
@@ -237,7 +237,7 @@ This snake animation is generated automatically by GitHub Actions using the Plat
 - **Auto-Trigger**: Updates on every push to main branch
 - **Simple & Reliable**: Streamlined workflow for consistent generation
 
-[View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/snake-contributions.yml)
+[View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/main.yml)
 
 **Note**: The snake images will appear once the workflow runs successfully. You can manually trigger it from the Actions tab.
 
