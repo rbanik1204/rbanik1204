@@ -31,58 +31,103 @@
 ---
 ### 📊 My GitHub Stats & Trophies
 
-This dashboard provides an overview of my coding activity, achievements, and core focus areas.
+This comprehensive dashboard showcases my coding journey, achievements, and technical expertise across various platforms.
 
 <br/>
 
+#### 🚀 **GitHub Analytics & Performance**
 <table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api?username=rbanik1204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10" alt="Ratul's GitHub Stats" />
-    </td>
-    <td width="50%" valign="top">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbanik1204&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=10" alt="Ratul's Top Languages" />
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=rbanik1204&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=10&card_width=400" alt="Ratul's GitHub Stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbanik1204&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&card_width=400" alt="Ratul's Top Languages" />
+    </td>
+  </tr>
 </table>
 
+#### 🔥 **Coding Streak & Consistency**
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Ratul's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" />
+</p>
+
+#### 🏆 **GitHub Achievements & Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rbanik1204&theme=tokyonight&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA&title=MultiLanguage,Stars,Commits,Repositories" alt="GitHub Trophies" />
+</p>
+
+#### 📈 **Detailed Language Statistics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbanik1204&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&card_width=800&hide=html,css,scss,makefile" alt="Language Distribution" />
+</p>
+
+#### 🎯 **Repository Insights**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbanik1204&repo=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Profile Repository" />
+</p>
+
+#### 📊 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbanik1204&theme=tokyonight&hide_border=true&area=true&area_color=1f1f23&line=61dafb&point=61dafb&color=61dafb&bg_color=0d1117&hide_title=true&radius=8" alt="Contribution Graph" />
+</p>
+
+#### 🏅 **Profile Summary Cards**
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rbanik1204&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&utcOffset=5.5" alt="Productive Time" />
 </p>
 
 ---
 ### 🎯 Core Competencies & Focus Areas
 
 #### 💻 Programming Languages
-![C](https://img.shields.io/badge/C-▰▰▰▰▰▰▰▰▰▱-00599C?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-▰▰▰▰▰▰▱▱▱▱-00599C?style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-▰▰▰▰▰▰▰▰▱▱-ED8B00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-▰▰▰▰▰▰▰▰▱▱-3776AB?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-▰▰▰▰▰▰▱▱▱▱-F7DF1E?style=for-the-badge&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C 90%"/>
+  <img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 60%"/>
+  <img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 75%"/>
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 75%"/>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+</p>
 
 <blockquote>
   Strong foundation in core programming languages with focus on problem-solving and algorithmic thinking.
 </blockquote>
 
 #### 🌐 Web Fundamentals
-![HTML](https://img.shields.io/badge/HTML-▰▰▰▰▰▰▰▰▰▱-E34F26?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-▰▰▰▰▰▰▰▰▰▱-1572B6?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-▰▰▰▰▰▰▱▱▱▱-F7DF1E?style=for-the-badge&logoColor=black)
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 90%"/>
+  <img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 90%"/>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+</p>
 
 <blockquote>
   Proficient in building semantic, accessible, and responsive web interfaces with modern standards.
 </blockquote>
 
 #### ⚡ Frameworks & Libraries
-![React](https://img.shields.io/badge/React-▰▰▰▰▱▱▱▱▱▱-61DAFB?style=for-the-badge&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-▰▰▰▰▱▱▱▱▱▱-339933?style=for-the-badge)
-![Express](https://img.shields.io/badge/Express-▰▰▰▰▱▱▱▱▱▱-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-▰▰▰▰▱▱▱▱▱▱-47A248?style=for-the-badge)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-▰▰▰▰▱▱▱▱▱▱-38B2AC?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 40%"/>
+  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 40%"/>
+  <img src="https://img.shields.io/badge/Express-40%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 40%"/>
+  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 40%"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-40%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS 40%"/>
+</p>
 
 <blockquote>
   Actively building full-stack applications with the MERN stack and modern development tools.
@@ -165,9 +210,9 @@ Feel free to reach out. I'm always open to connecting with new people!
 ---
 ## 🐍 GitHub Snake Contribution Animation
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake.svg" />
-</picture>
+![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-dark.svg)
+
+<!-- Or use any other theme: -->
+![Ocean Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-ocean.svg)
+![Neon Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-neon.svg)
 
