@@ -28,24 +28,36 @@ Pursuing **B.Tech in Computer Science & Engineering (2023–2027)**
 
 ---
 
-## 🧰 Tech Stack
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+🧰 Tech Proficiency
+<p align="center"> <!-- Row 1 --> <img
+        src="https://img.shields.io/badge/C-95%25-brightgreen?style=for-the-badge&logo=c&logoColor=white" /> <img
+        src="https://img.shields.io/badge/Python-95%25-brightgreen?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-90%25-brightgreen?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+<p align="center"> <!-- Row 2 --> <img
+        src="https://img.shields.io/badge/C++-60%25-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img
+        src="https://img.shields.io/badge/Unix%20Shell-95%25-brightgreen?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+</p>
+<p align="center"> <!-- Row 3 --> <img
+        src="https://img.shields.io/badge/HTML5-95%25-orange?style=for-the-badge&logo=html5&logoColor=white" /> <img
+        src="https://img.shields.io/badge/CSS3-95%25-blue?style=for-the-badge&logo=css3&logoColor=white" /> <img
+        src="https://img.shields.io/badge/JavaScript-70%25-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<p align="center"> <!-- Row 4 --> <img
+        src="https://img.shields.io/badge/React-55%25-blue?style=for-the-badge&logo=react&logoColor=white" /> <img
+        src="https://img.shields.io/badge/Node.js-50%25-green?style=for-the-badge&logo=node.js&logoColor=white" /> <img
+        src="https://img.shields.io/badge/Express.js-50%25-lightgrey?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-50%25-green?style=for-the-badge&logo=mongodb&logoColor=white" /> </p>
+<p align="center"> <!-- Row 5 --> <img
+        src="https://img.shields.io/badge/Django-70%25-darkgreen?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-70%25-blue?style=for-the-badge&logo=mysql&logoColor=white" /> <img
+        src="https://img.shields.io/badge/Firebase-70%25-orange?style=for-the-badge&logo=firebase&logoColor=white" />
+</p>
+<p align="center"> <!-- Row 6 --> <img
+        src="https://img.shields.io/badge/Git/GitHub-80%25-lightgrey?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/TailwindCSS-75%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
 ---
 
