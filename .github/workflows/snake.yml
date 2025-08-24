@@ -32,7 +32,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      # Step 2: Generate Dark Theme Snake
+      # Step 2: Create Output Directory
+      - name: 📁 Create Output Directory
+        run: mkdir -p ${{ env.SNAKE_OUTPUT_DIR }}
+
+      # Step 3: Generate Dark Theme Snake
       - name: 🌙 Generate Dark Theme Snake
         uses: Platane/snk@v3
         with:
@@ -42,7 +46,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 3: Generate Ocean Theme Snake
+      # Step 4: Generate Ocean Theme Snake
       - name: 🌊 Generate Ocean Theme Snake
         uses: Platane/snk@v3
         with:
@@ -52,7 +56,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 4: Generate Sunset Theme Snake
+      # Step 5: Generate Sunset Theme Snake
       - name: 🌅 Generate Sunset Theme Snake
         uses: Platane/snk@v3
         with:
@@ -62,7 +66,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 5: Generate Neon Theme Snake
+      # Step 6: Generate Neon Theme Snake
       - name: 💫 Generate Neon Theme Snake
         uses: Platane/snk@v3
         with:
@@ -72,7 +76,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 6: Generate Forest Theme Snake
+      # Step 7: Generate Forest Theme Snake
       - name: 🌲 Generate Forest Theme Snake
         uses: Platane/snk@v3
         with:
@@ -82,7 +86,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # Step 7: Generate Classic Theme Snake
+      # Step 8: Generate Classic Theme Snake
       - name: 🎨 Generate Classic Theme Snake
         uses: Platane/snk@v3
         with:
@@ -91,6 +95,14 @@ jobs:
             ${{ env.SNAKE_OUTPUT_DIR }}/github-snake.svg?palette=github&color_snake=#00ff00&color_dots=#1b1f23,#21262d,#30363d,#484f58,#656d76
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 9: List Generated Files
+      - name: 📋 List Generated Files
+        run: |
+          echo "Generated snake files:"
+          ls -la ${{ env.SNAKE_OUTPUT_DIR }}/
+          echo "File sizes:"
+          du -h ${{ env.SNAKE_OUTPUT_DIR }}/*
 
   # Create showcase and documentation
   create-showcase:
@@ -162,15 +174,15 @@ jobs:
                       </div>
                       <div class="snake-item">
                           <h3>🌅 Sunset Theme</h3>
-                          <img src="github-snake-sunset.svg" alt="Sunset Theme Snake">
+                          <img src="github-snake-sunset.svg" alt="Sunset Snake">
                       </div>
                       <div class="snake-item">
                           <h3>💫 Neon Theme</h3>
-                          <img src="github-snake-neon.svg" alt="Neon Theme Snake">
+                          <img src="github-snake-neon.svg" alt="Neon Snake">
                       </div>
                       <div class="snake-item">
                           <h3>🌲 Forest Theme</h3>
-                          <img src="github-snake-forest.svg" alt="Forest Theme Snake">
+                          <img src="github-snake-forest.svg" alt="Forest Snake">
                       </div>
                       <div class="snake-item">
                           <h3>🎨 Classic Theme</h3>

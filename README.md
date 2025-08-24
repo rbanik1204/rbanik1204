@@ -237,10 +237,10 @@ Feel free to reach out. I'm always open to connecting with new people!
   </tr>
 </table>
 
-### 🎬 **Animated Version**
+### 🎬 **Classic Theme**
 <p align="center">
-  <strong>🎬 Animated GIF Snake</strong><br/>
-  <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake-animated.gif" alt="Animated Snake" width="600"/>
+  <strong>🎨 Classic GitHub Theme</strong><br/>
+  <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/output/github-snake.svg" alt="Classic Snake" width="600"/>
 </p>
 
 <details>
@@ -249,7 +249,7 @@ Feel free to reach out. I'm always open to connecting with new people!
 This snake animation is generated automatically by GitHub Actions using the enhanced workflow that creates multiple themed versions:
 
 - **Update Frequency**: 3 times daily (midnight, noon, 6 PM UTC)
-- **Themes Available**: Dark, Ocean, Neon, Sunset, Forest, Animated GIF
+- **Themes Available**: Dark, Ocean, Neon, Sunset, Forest, Classic
 - **Auto-Trigger**: Updates on every push and pull request
 - **Custom Colors**: Each theme uses unique color palettes
 
