@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi there, I'm Ratul Banik 👋🏼</h1>
-<h3 align="center">A PY & MERN STACK DEV from India 🇮🇳</h3>
+<h3 align="center">B.Tech CSE | AI & Web Developer from India 🇮🇳</h3>
 
 <p align="center">
   I'm a Computer Science Engineering student (2023-2027) with a deep passion for transforming complex problems into elegant, full-stack solutions. I am driven by the process of building and am currently dedicating my time to mastering Data Structures & Algorithms while developing robust applications with the MERN stack.
@@ -23,19 +23,92 @@
 
 ### A Little More About Me...
 
-* 🔭 I’m currently building projects with the **MERN (MongoDB, Express, React, Node.js) Stack**.
-* 🌱 I’m sharpening my problem-solving skills daily on **LeetCode** and **HackerRank**.
-* 👯 I’m looking to collaborate on innovative open-source web projects.
+* 🔭 I'm currently building projects with the **MERN (MongoDB, Express, React, Node.js) Stack**.
+* 🌱 I'm sharpening my problem-solving skills daily on **LeetCode** and **HackerRank**.
+* 👯 I'm looking to collaborate on innovative open-source web projects.
 * 📫 You can reach me at **ratulbanik1204@gmail.com**.
 
 ---
-### 📊 My GitHub Stats & Trophies
 
-This comprehensive dashboard showcases my coding journey, achievements, and technical expertise across various platforms.
+## 🎯 **Core Competencies & Focus Areas**
 
-<br/>
+### 💻 **Programming Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C 90%"/>
+  <img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 60%"/>
+  <img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 75%"/>
+  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 75%"/>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+</p>
 
-#### 🚀 **GitHub Analytics & Performance**
+<blockquote>
+  Strong foundation in core programming languages with focus on problem-solving and algorithmic thinking.
+</blockquote>
+
+### 🌐 **Web Fundamentals**
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 90%"/>
+  <img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 90%"/>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+</p>
+
+<blockquote>
+  Proficient in building semantic, accessible, and responsive web interfaces with modern standards.
+</blockquote>
+
+### ⚡ **Frameworks & Libraries**
+<p align="center">
+  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 40%"/>
+  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 40%"/>
+  <img src="https://img.shields.io/badge/Express-40%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 40%"/>
+  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 40%"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-40%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS 40%"/>
+</p>
+
+<blockquote>
+  Actively building full-stack applications with the MERN stack and modern development tools.
+</blockquote>
+
+---
+
+## 🌟 **Premium Skill Matrix**
+
+### 🎯 **Expertise Levels**
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <h4>🚀 Advanced (90-100%)</h4>
+      <img src="https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Advanced"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML/CSS-Advanced-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS Advanced"/>
+    </td>
+    <td width="33%" align="center">
+      <h4>⚡ Proficient (70-89%)</h4>
+      <img src="https://img.shields.io/badge/Java-Proficient-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Proficient"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-Proficient-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Proficient"/>
+    </td>
+    <td width="33%" align="center">
+      <h4>🌱 Learning (40-69%)</h4>
+      <img src="https://img.shields.io/badge/C++-Learning-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Learning"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Learning"/>
+    </td>
+  </tr>
+</table>
+
+### 📚 **Learning Roadmap**
+<p align="center">
+  <strong>Current Focus:</strong> JavaScript → React → MERN Stack → Advanced AI
+  <br/>
+  <strong>Goal:</strong> Full Stack Internship & MERN Mastery
+</p>
+
+---
+
+## 📊 **Advanced Analytics & Insights**
+
+### 🚀 **GitHub Analytics & Performance**
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -47,32 +120,32 @@ This comprehensive dashboard showcases my coding journey, achievements, and tech
   </tr>
 </table>
 
-#### 🔥 **Coding Streak & Consistency**
+### 🔥 **Coding Streak & Consistency**
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" />
 </p>
 
-#### 🏆 **GitHub Achievements & Trophies**
+### 🏆 **GitHub Achievements & Trophies**
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rbanik1204&theme=tokyonight&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA&title=MultiLanguage,Stars,Commits,Repositories" alt="GitHub Trophies" />
 </p>
 
-#### 📈 **Detailed Language Statistics**
+### 📈 **Detailed Language Statistics**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbanik1204&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&card_width=800&hide=html,css,scss,makefile" alt="Language Distribution" />
 </p>
 
-#### 🎯 **Repository Insights**
+### 🎯 **Repository Insights**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbanik1204&repo=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Profile Repository" />
 </p>
 
-#### 📊 **Contribution Graph**
+### 📊 **Contribution Graph**
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbanik1204&theme=tokyonight&hide_border=true&area=true&area_color=1f1f23&line=61dafb&point=61dafb&color=61dafb&bg_color=0d1117&hide_title=true&radius=8" alt="Contribution Graph" />
 </p>
 
-#### 🏅 **Profile Summary Cards**
+### 🏅 **Profile Summary Cards**
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Profile Details" />
 </p>
@@ -94,45 +167,80 @@ This comprehensive dashboard showcases my coding journey, achievements, and tech
 </p>
 
 ---
-### 🎯 Core Competencies & Focus Areas
 
-#### 💻 Programming Languages
+## 🚀 **Featured Projects & Achievements**
+
+### 🎯 **Project Showcase**
+
+<details>
+<summary>🤖 <strong>AI Help Bot for MOSDAC</strong> - Click to expand</summary>
+
+**Tech Stack:** Python, AI/ML, Natural Language Processing  
+**Description:** Intelligent chatbot system designed to assist users with MOSDAC queries and provide automated support.  
+**Highlights:** 
+- Advanced NLP implementation
+- Context-aware responses
+- Scalable architecture
+
+</details>
+
+<details>
+<summary>🚗 <strong>RC Car Project (ESP8266 + Sensors)</strong> - Click to expand</summary>
+
+**Tech Stack:** C++, ESP8266, IoT, Sensors  
+**Description:** Smart remote-controlled car with integrated sensors for autonomous navigation and obstacle detection.  
+**Highlights:**
+- Real-time sensor data processing
+- Wireless communication
+- Hardware-software integration
+
+</details>
+
+<details>
+<summary>📁 <strong>P2P File Sharing System</strong> - Click to expand</summary>
+
+**Tech Stack:** Python, Networking, Peer-to-Peer Architecture  
+**Description:** Decentralized file sharing system enabling direct file transfer between users without central servers.  
+**Highlights:**
+- Efficient P2P protocols
+- Secure file transfer
+- Cross-platform compatibility
+
+</details>
+
+### 🏆 **Achievement Highlights**
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🎓 Academic Excellence</h4>
+      <img src="https://img.shields.io/badge/B.Tech_CSE-2023--2027-3776AB?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="B.Tech CSE"/>
+      <br/><br/>
+      <strong>Computer Science Engineering</strong>
+    </td>
+    <td width="50%" align="center">
+      <h4>🚀 Career Goals</h4>
+      <img src="https://img.shields.io/badge/Goal-Full_Stack_Internship-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Full Stack Internship"/>
+      <br/><br/>
+      <strong>MERN Stack Mastery</strong>
+    </td>
+  </tr>
+</table>
+
+### 📈 **Progress Tracking**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C-90%25-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C 90%"/>
-  <img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ 60%"/>
-  <img src="https://img.shields.io/badge/Java-75%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 75%"/>
-  <img src="https://img.shields.io/badge/Python-75%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 75%"/>
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
+  <strong>Current Milestones:</strong>
+  <br/>
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Progress"/>
+  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Progress"/>
+  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Progress"/>
+  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Progress"/>
 </p>
 
-<blockquote>
-  Strong foundation in core programming languages with focus on problem-solving and algorithmic thinking.
-</blockquote>
+---
 
-#### 🌐 Web Fundamentals
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-90%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML 90%"/>
-  <img src="https://img.shields.io/badge/CSS-90%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS 90%"/>
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript 60%"/>
-</p>
-
-<blockquote>
-  Proficient in building semantic, accessible, and responsive web interfaces with modern standards.
-</blockquote>
-
-#### ⚡ Frameworks & Libraries
-<p align="center">
-  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 40%"/>
-  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js 40%"/>
-  <img src="https://img.shields.io/badge/Express-40%25-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express 40%"/>
-  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB 40%"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-40%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS 40%"/>
-</p>
-
-<blockquote>
-  Actively building full-stack applications with the MERN stack and modern development tools.
-</blockquote>
-### 🚀 Data Structures & Algorithms
+## 🚀 **Data Structures & Algorithms**
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -142,7 +250,7 @@ This comprehensive dashboard showcases my coding journey, achievements, and tech
   My primary focus is on strengthening my problem-solving foundation by consistently tackling challenges on <strong>LeetCode</strong> and <strong>HackerRank</strong>. This sharpens my logical thinking and efficiency.
 </blockquote>
 
-### 💻 Full-Stack Development
+### 💻 **Full-Stack Development**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
@@ -153,7 +261,7 @@ This comprehensive dashboard showcases my coding journey, achievements, and tech
   I am actively learning and building projects with the <strong>MERN stack</strong> to create modern, responsive, and scalable web applications from end to end.
 </blockquote>
 
-### 🌐 Web Fundamentals
+### 🌐 **Web Fundamentals**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -165,7 +273,7 @@ This comprehensive dashboard showcases my coding journey, achievements, and tech
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 **Tech Stack & Tools**
 
 I have experience with a diverse range of technologies, which I have organized by category below.
 
@@ -179,7 +287,7 @@ I have experience with a diverse range of technologies, which I have organized b
 
 ---
 
-### 👨‍💻 Competitive Programming
+### 👨‍💻 **Competitive Programming**
 
 I actively practice problem-solving to sharpen my logical and algorithmic thinking. You can find my profiles here:
 
@@ -191,7 +299,7 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 **Let's Connect**
 
 Feel free to reach out. I'm always open to connecting with new people!
 
@@ -208,7 +316,8 @@ Feel free to reach out. I'm always open to connecting with new people!
 </p>
 
 ---
-## 🐍 GitHub Snake Contribution Animation
+
+## 🐍 **GitHub Snake Contribution Animation**
 
 ### 🌟 **Main Contribution Snake**
 ![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
@@ -234,7 +343,7 @@ This snake animation is generated automatically by GitHub Actions using the Plat
 
 - **Update Frequency**: Daily at midnight UTC
 - **Themes Available**: Dark, Classic
-- **Auto-Trigger**: Updates on every push to main branch
+- **Auto-Trigger**: Updates on every push to master branch
 - **Simple & Reliable**: Streamlined workflow for consistent generation
 
 [View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/main.yml)
