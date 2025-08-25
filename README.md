@@ -3,6 +3,13 @@
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 
 ---
+### 🔗 Connect with me
+- 🌐 Portfolio: [your-portfolio-link](https://yourportfolio.com)
+- 📧 Email: ratulbanik1204@gmail.com
+- 🐦 Twitter: [@r_banik1204](https://x.com/r_banik1204)
+- 💼 LinkedIn: [Ratul Banik](https://www.linkedin.com/in/ratul-banik1204/)
+- 🐙 GitHub: [rbanik1204](https://github.com/rbanik1204)
+- 💬 Discord: ratul4756
 
 ## 🎭 **Professional Profile Banner**
 
