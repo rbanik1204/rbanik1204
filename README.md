@@ -4,7 +4,7 @@
 
 ---
 ### 🔗 Connect with me
-- 🌐 Portfolio: [your-portfolio-link](https://rbanik1204.github.io/PORTFOLIO/)
+- 🌐 Portfolio: (https://rbanik1204.github.io/PORTFOLIO/)
 - 📧 Email: ratulbanik1204@gmail.com
 - 🐦 Twitter: [@r_banik1204](https://x.com/r_banik1204)
 - 💼 LinkedIn: [Ratul Banik](https://www.linkedin.com/in/ratul-banik1204/)
