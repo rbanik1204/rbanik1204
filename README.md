@@ -184,9 +184,9 @@
 </table>
 
 ### 🔥 **Coding Streak & Consistency**
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" /> </p>
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" />
+</p>
 
 
 ### 📈 **Detailed Language Statistics**
