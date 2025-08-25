@@ -27,7 +27,7 @@
 ---
 
 <h1 align="center">Hi there, I'm Ratul Banik 👋🏼</h1>
-<h3 align="center">B.Tech CSE | AI & Web Developer from India 🇮🇳</h3>
+<h3 align="center">B.Tech CSE | PY & Web Developer from India 🇮🇳</h3>
 
 <p align="center">
   I'm a Computer Science Engineering student (2023-2027) with a deep passion for transforming complex problems into elegant, full-stack solutions. I am driven by the process of building and am currently dedicating my time to mastering Data Structures & Algorithms while developing robust applications with the MERN stack.
@@ -184,9 +184,8 @@
 </table>
 
 ### 🔥 **Coding Streak & Consistency**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" />
-</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" /> </p>
+
 
 
 
