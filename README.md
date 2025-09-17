@@ -2,7 +2,9 @@
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
 
 ## 🎭 **Professional Profile Banner**
 
@@ -15,7 +17,9 @@
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
   
-  ---
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
   
   ### 🌟 **Quick Stats**
   
@@ -25,7 +29,9 @@
   
 </div>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
 
 <h1 align="center">Hi there, I'm Ratul Banik 👋🏼</h1>
 <h3 align="center">B.Tech CSE | PY & Web Developer from India 🇮🇳</h3>
@@ -43,7 +49,9 @@
   </a>
 </p>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
 
 ### A Little More About Me...
 
@@ -52,7 +60,10 @@
 * 👯 I'm looking to collaborate on innovative open-source web projects.
 * 📫 You can reach me at **ratulbanik1204@gmail.com**.
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 <details>
   <summary>🎯 <b>Core Competencies & Focus Areas</b></summary>
 
@@ -93,7 +104,9 @@
   Actively learning and building full-stack applications with the MERN stack and modern development tools.
 </blockquote>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
 </details>
 <details>
   <summary>🌟<b>Skill Matrix</b></summary>
@@ -226,7 +239,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&utcOffset=5.5" alt="Productive Time" />
 </p>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 <details>
   <summary>🚀<b>Featured Projects & Achievements</b></summary>
@@ -274,7 +290,10 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 <details>
 <summary>🌟<b>Collaboration Hub & Open Source</b></summary>
@@ -307,7 +326,10 @@
   <a href="https://github.com/rbanik1204"><img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 <details>
   <summary>📱<b>Mobile-First Design & Interactive Elements</b></summary>
@@ -376,7 +398,10 @@
   </tr>
 </table>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 <details>
   <summary>🚀<b>Data Structures & Algorithms</b></summary>
@@ -410,7 +435,10 @@
   Building a solid foundation in core web technologies to create semantic, accessible, and responsive user interfaces.
 </blockquote>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 <details>
   <summary>🧰<b>Tech Stack & Tools</b></summary>
@@ -425,7 +453,10 @@ I am learning and working with various technologies, which I have organized by c
 | **Databases** | <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/> |
 | **Developer Tools** | <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> |
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 <details>
   <summary>👨‍💻<b>Competitive Programming</b></summary>
@@ -438,7 +469,10 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
   <a href="https://leetcode.com/u/r_b0412/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"></a>
 </p>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
+
 </details>
 
 ### 🤝 **Let's Connect**
@@ -457,7 +491,9 @@ Feel free to reach out. I'm always open to connecting with new people!
   <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
 
 ## 🐍 **GitHub Snake Contribution Animation**
 
@@ -483,7 +519,9 @@ Feel free to reach out. I'm always open to connecting with new people!
   </tr>
 </table>
 
----
+<div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
 
 ## 🌟 **Let's Build Something Amazing Together!**
 
@@ -498,7 +536,9 @@ I'm always excited to work on innovative projects and learn from amazing develop
   [![Email](https://img.shields.io/badge/Email-Discuss_Project-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Check_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
   
-  ---
+  <div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+</div>
   
   ### 🎯 **Current Focus Areas**
   
@@ -507,13 +547,17 @@ I'm always excited to work on innovative projects and learn from amazing develop
   <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   
-  ---
+  <div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+  </div>
   
   <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
   
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
   
-  ---
+  <div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+  </div>
   
   <p align="center">
     <strong>Made with ❤️ by rb</strong>
