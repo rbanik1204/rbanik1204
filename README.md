@@ -52,8 +52,8 @@
 * 📫 You can reach me at **ratulbanik1204@gmail.com**.
 
 ---
-
-## 🎯 **Core Competencies & Focus Areas**
+<details>
+  <summary>🎯 <b>Core Competencies & Focus Areas</b></summary>
 
 ### 💻 **Programming Languages**
 <p align="center">
@@ -93,9 +93,9 @@
 </blockquote>
 
 ---
-
-## 🌟 **Skill Matrix**
-
+</details>
+<details>
+  <summary>🌟<b>Skill Matrix</b></summary>
 ### 🎯 **Experience Levels**
 <table width="100%">
   <tr>
@@ -168,9 +168,9 @@
 </p>
 
 ---
-
-## 📊 **Advanced Analytics & Insights**
-
+</details>
+<details>
+  <summary>📊<b>Advanced Analytics & Insights</b></summary>
 ### 🚀 **GitHub Analytics & Performance**
 <table width="100%">
   <tr>
@@ -226,8 +226,9 @@
 </p>
 
 ---
-
-## 🚀 **Featured Projects & Achievements**
+</details>
+<details>
+  <summary>🚀<b>Featured Projects & Achievements</b></summary>
 
 ### 🎯 **Project Showcase**
 *Coming Soon! I'm currently building amazing projects that will be showcased here once they're ready for GitHub.* 🚀
@@ -273,8 +274,9 @@
 </p>
 
 ---
-
-## 🤝 **Collaboration Hub & Open Source**
+</details>
+<details>
+<summary>🌟<b>Collaboration Hub & Open Source</b></summary>
 
 ### 🌟 **Areas of Interest**
 <p align="center">
@@ -305,8 +307,9 @@
 </p>
 
 ---
-
-## 📱 **Mobile-First Design & Interactive Elements**
+</details>
+<details>
+  <summary>📱<b>Mobile-First Design & Interactive Elements</b></summary>
 
 ### 🎨 **Design Features**
 <div align="center">
@@ -373,8 +376,9 @@
 </table>
 
 ---
-
-## 🚀 **Data Structures & Algorithms**
+</details>
+<details>
+  <summary>🚀<b>Data Structures & Algorithms</b></summary>
 <p>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -406,8 +410,9 @@
 </blockquote>
 
 ---
-
-### 🧰 **Tech Stack & Tools**
+</details>
+<details>
+  <summary>🧰<b>Tech Stack & Tools</b></summary>
 
 I am learning and working with various technologies, which I have organized by category below.
 
@@ -420,8 +425,9 @@ I am learning and working with various technologies, which I have organized by c
 | **Developer Tools** | <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> |
 
 ---
-
-### 👨‍💻 **Competitive Programming**
+</details>
+<details>
+  <summary>👨‍💻<b>Competitive Programming</b></summary>
 
 I actively practice problem-solving to sharpen my logical and algorithmic thinking. You can find my profiles here:
 
@@ -432,6 +438,7 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
 </p>
 
 ---
+</details>
 
 ### 🤝 **Let's Connect**
 
@@ -456,6 +463,7 @@ Feel free to reach out. I'm always open to connecting with new people!
 ### 🌟 **Main Contribution Snake**
 ![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
 
+
 ### 🎨 **Alternative Snake Styles**
 <table width="100%">
   <tr>
@@ -473,23 +481,6 @@ Feel free to reach out. I'm always open to connecting with new people!
     </td>
   </tr>
 </table>
-
-<details>
-<summary>🔧 <strong>Snake Configuration Details</strong></summary>
-
-This snake animation is generated automatically by GitHub Actions using the Platane/snk action:
-
-- **Update Frequency**: Daily at midnight UTC
-- **Themes Available**: Classic, Dark, Ocean
-- **Auto-Trigger**: Updates on every push to master branch
-- **Color Themes**: Each theme has unique snake colors and styles
-- **Simple & Reliable**: Streamlined workflow for consistent generation
-
-[View Snake Workflow →](https://github.com/rbanik1204/rbanik1204/actions/workflows/main.yml)
-
-**Note**: The snake images will appear once the workflow runs successfully. You can manually trigger it from the Actions tab.
-
-</details>
 
 ---
 
@@ -517,14 +508,6 @@ I'm always excited to work on innovative projects and learn from amazing develop
   
   ---
   
-  ### 🏆 **GitHub Profile Status**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=rbanik1204&color=blue&style=flat-square)
-  ![GitHub Followers](https://img.shields.io/github/followers/rbanik1204?label=Followers&style=social)
-  ![GitHub Stars](https://img.shields.io/github/stars/rbanik1204?label=Stars&style=social)
-  
-  ---
-  
   <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
   
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
@@ -534,7 +517,7 @@ I'm always excited to work on innovative projects and learn from amazing develop
   <p align="center">
     <strong>Made with ❤️ by rb</strong>
     <br/>
-    <em>B.Tech CSE | PY & Web Developer | Open Source Enthusiast</em>
+    <em>I use arch btw😁</em>
   </p>
   
 </div>
