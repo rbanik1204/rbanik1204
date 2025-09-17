@@ -2,7 +2,9 @@
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohitdasu/github-assets/main/separators/wavy-line.svg" width="100%" height="40px" />
+</p>
 ## 🎭 **Professional Profile Banner**
 
 <div align="center">
