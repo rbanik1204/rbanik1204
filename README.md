@@ -2,15 +2,11 @@
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-</div>
-<div align="center" height="90px">
-  <img src="assets/working-on.gif" alt="wavy separator" width="100%" height="500px"/>
-</div>
 
-## 🎭 **Professional Profile Banner**
 
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
+</div>
 <div align="center">
   
   ### 🚀 **Ratul Banik** 
@@ -20,9 +16,7 @@
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
   
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-</div>
+---
   
   ### 🌟 **Quick Stats**
   
@@ -518,15 +512,33 @@ Feel free to reach out. I'm always open to connecting with new people!
   </tr>
 </table>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+---
+
+<div align="center">
+  
+  ### 🎯 **Current Focus Areas**
+  
+  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+---
 </div>
 
-## 🌟 **Let's Build Something Amazing Together!**
 
-### 🚀 **Ready to Collaborate?**
-I'm always excited to work on innovative projects and learn from amazing developers like you!
-
+### 🌟 **Let's Build Something Amazing Together!**
+<div align="center">
+  
+  ### 🚀 **Ready to Collaborate?**
+  **I'm always excited to work on innovative projects and learn from amazing developers like you!**
+  <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
+  <p><em>Let's connect and build something incredible together! 🚀</em></p>
+<div>  
+  <div align="center" height="90px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+  </div>
+  
 <div align="center">
   
   ### 📫 **Get in Touch**
@@ -535,34 +547,14 @@ I'm always excited to work on innovative projects and learn from amazing develop
   [![Email](https://img.shields.io/badge/Email-Discuss_Project-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Check_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
   
-  <div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="90px">
+  <img src="assets/red-divider.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
-  
-  ### 🎯 **Current Focus Areas**
-  
-  <img src="https://img.shields.io/badge/JavaScript-60%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-40%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  
-  <div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-  </div>
-  
-  <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
-  
-  <p><em>Let's connect and build something incredible together! 🚀</em></p>
-  
-  <div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-  </div>
-  
-  <p align="center">
-    <strong>Made with ❤️ by rb</strong>
-    <br/>
-    <em>I use arch btw😁</em>
-  </p>
   
 </div>
 
+  <p align="center">
+    <strong>Made with ❤️ by rb</strong>
+    <br/>
+    <em>I use arch BTW</em>
+  </p>
