@@ -44,8 +44,8 @@
   </a>
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 ### A Little More About Me...
@@ -55,8 +55,8 @@
 * 👯 I'm looking to collaborate on innovative open-source web projects.
 * 📫 You can reach me at **ratulbanik1204@gmail.com**.
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 <details>
@@ -99,8 +99,8 @@
   Actively learning and building full-stack applications with the MERN stack and modern development tools.
 </blockquote>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 </details>
 <details>
@@ -234,8 +234,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -285,8 +285,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -321,8 +321,8 @@
   <a href="https://github.com/rbanik1204"><img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -393,8 +393,8 @@
   </tr>
 </table>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -472,9 +472,6 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
 <div align="center" height="20px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
-  
-
- 
 
 ## 🐍 **GitHub Snake Contribution Animation**
 
@@ -525,7 +522,7 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
   <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
 <div>  
-  <div align="center" height="90px">
+  <div align="center">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
   </div>
   
