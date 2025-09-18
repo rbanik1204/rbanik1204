@@ -523,7 +523,9 @@ Feel free to reach out. I'm always open to connecting with new people!
   <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
----
+<div align="center" height="90px">
+  <img src="assets/divider-blue.gif" alt="wavy separator" width="100%" height="90px"/>
+  </div
 </div>
 
 
