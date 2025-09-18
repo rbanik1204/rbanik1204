@@ -5,6 +5,9 @@
 <div align="center" height="90px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
+<div align="center" height="90px">
+  <img src="assets/working-on.gif" alt="wavy separator" width="100%" height="500px"/>
+</div>
 
 ## 🎭 **Professional Profile Banner**
 
@@ -27,10 +30,6 @@
   ![GitHub Followers](https://img.shields.io/github/followers/rbanik1204?label=Followers&style=social)
   ![GitHub Stars](https://img.shields.io/github/stars/rbanik1204?label=Stars&style=social)
   
-</div>
-
-<div align="center" height="90px">
-  <img src="assets/working-on.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
 
 <h1 align="center">Hi there, I'm Ratul Banik 👋🏼</h1>
