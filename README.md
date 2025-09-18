@@ -1,4 +1,6 @@
-[![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/ratul-banik1204/)
+<a href="https://www.linkedin.com/in/ratul-banik1204/">
+  <img src="./banner_github.png" alt="clickable" width="100%"/>
+</a>
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 
@@ -465,28 +467,14 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
 <div align="center" height="90px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
-
 </details>
-
-### 🤝 **Let's Connect**
-
-Feel free to reach out. I'm always open to connecting with new people!
-
-<p align="center">
-  <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ratul-banik1204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://x.com/r_banik1204"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/AwareZookeepergame67/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  &nbsp;
-  <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
-
-<div align="center" height="90px">
+  
+<div align="center" height="20px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
+  
+
+ 
 
 ## 🐍 **GitHub Snake Contribution Animation**
 
@@ -548,13 +536,32 @@ Feel free to reach out. I'm always open to connecting with new people!
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-banik1204/)
   [![Email](https://img.shields.io/badge/Email-Discuss_Project-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Check_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
-  
+   
+
+Feel free to reach out. I'm always open to connecting with new people!
+</div>
+<p align="center">
+  <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ratul-banik1204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://x.com/r_banik1204"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/AwareZookeepergame67/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  &nbsp;
+  <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
 <div align="center" height="90px">
   <img src="assets/red-divider.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
   
 </div>
+<div align="center">
 
+  <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
+</div>
+  
   <p align="center">
     <strong>Made with ❤️ by rb</strong>
     <br/>
