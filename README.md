@@ -3,9 +3,6 @@
 </a>
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
-
-
-
 <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
@@ -555,7 +552,7 @@ Feel free to reach out. I'm always open to connecting with new people!
   
 </div>
 <div align="center">
-
+  
   <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
 </div>
   
