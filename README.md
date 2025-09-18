@@ -516,7 +516,6 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
   
   ### 🚀 **Ready to Collaborate?**
   **I'm always excited to work on innovative projects and learn from amazing developers like you!**
-  <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
 <div>  
   <div align="center">
