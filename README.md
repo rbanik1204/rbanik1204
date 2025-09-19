@@ -1,9 +1,8 @@
-[![LinkedIn Banner](./banner_github.png)](https://www.linkedin.com/in/ratul-banik1204/)
+<a href="https://www.linkedin.com/in/ratul-banik1204/">
+  <img src="./banner_github.png" alt="clickable" width="100%"/>
+</a>
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
-
-
-
 <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
@@ -42,8 +41,8 @@
   </a>
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 ### A Little More About Me...
@@ -53,8 +52,8 @@
 * 👯 I'm looking to collaborate on innovative open-source web projects.
 * 📫 You can reach me at **ratulbanik1204@gmail.com**.
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 <details>
@@ -97,8 +96,8 @@
   Actively learning and building full-stack applications with the MERN stack and modern development tools.
 </blockquote>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 </details>
 <details>
@@ -232,8 +231,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -283,8 +282,8 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -319,8 +318,8 @@
   <a href="https://github.com/rbanik1204"><img src="https://img.shields.io/badge/GitHub-Connect-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -391,8 +390,8 @@
   </tr>
 </table>
 
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
+<div align="center" height="40px">
+  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 
 </details>
@@ -454,7 +453,7 @@ I am learning and working with various technologies, which I have organized by c
 <details>
   <summary>👨‍💻<b>Competitive Programming</b></summary>
 
-I actively practice problem-solving to sharpen my logical and algorithmic thinking. You can find my profiles here:
+<b>I actively practice problem-solving to sharpen my logical and algorithmic thinking. You can find my profiles here:</b>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/ratulbanik2004"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
@@ -465,29 +464,8 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
 <div align="center" height="90px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
-
 </details>
-
-### 🤝 **Let's Connect**
-
-Feel free to reach out. I'm always open to connecting with new people!
-
-<p align="center">
-  <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ratul-banik1204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://x.com/r_banik1204"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/AwareZookeepergame67/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  &nbsp;
-  <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
-
-<div align="center" height="90px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-</div>
-
+  
 ## 🐍 **GitHub Snake Contribution Animation**
 
 ### 🌟 **Main Contribution Snake**
@@ -523,7 +501,9 @@ Feel free to reach out. I'm always open to connecting with new people!
   <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
----
+<div align="center" height="90px">
+  <img src="assets/divider-blue.gif" alt="wavy separator" width="100%" height="90px"/>
+  </div
 </div>
 
 
@@ -532,10 +512,9 @@ Feel free to reach out. I'm always open to connecting with new people!
   
   ### 🚀 **Ready to Collaborate?**
   **I'm always excited to work on innovative projects and learn from amazing developers like you!**
-  <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
 <div>  
-  <div align="center" height="90px">
+  <div align="center">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
   </div>
   
@@ -546,13 +525,32 @@ Feel free to reach out. I'm always open to connecting with new people!
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-banik1204/)
   [![Email](https://img.shields.io/badge/Email-Discuss_Project-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Check_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
-  
+   
+
+Feel free to reach out. I'm always open to connecting with new people!
+</div>
+<p align="center">
+  <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ratul-banik1204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  &nbsp;
+  <a href="https://x.com/r_banik1204"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+  &nbsp;
+  <a href="https://www.reddit.com/user/AwareZookeepergame67/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+  &nbsp;
+  <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+</p>
+
 <div align="center" height="90px">
   <img src="assets/red-divider.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
   
 </div>
-
+<div align="center">
+  
+  <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
+</div>
+  
   <p align="center">
     <strong>Made with ❤️ by rb</strong>
     <br/>
