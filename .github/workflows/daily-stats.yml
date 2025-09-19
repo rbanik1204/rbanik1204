@@ -1,0 +1,46 @@
+name: Update Daily Stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour (adjust if you want daily only)
+  workflow_dispatch:       # allow manual run too
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Get commits today
+        id: commits
+        run: |
+          COMMITS=$(gh api search/commits \
+            -H "Accept: application/vnd.github.cloak-preview" \
+            -q "total_count" \
+            -f q="author:${{ github.actor }} committer-date:$(date +%Y-%m-%d)")
+          echo "count=$COMMITS" >> $GITHUB_OUTPUT
+
+      - name: Get PRs today
+        id: prs
+        run: |
+          PRS=$(gh api search/issues \
+            -q "total_count" \
+            -f q="author:${{ github.actor }} type:pr created:$(date +%Y-%m-%d)")
+          echo "count=$PRS" >> $GITHUB_OUTPUT
+
+      - name: Create badge
+        run: |
+          mkdir -p badges
+          echo "{
+            \"schemaVersion\": 1,
+            \"label\": \"Today\",
+            \"message\": \"Commits: ${{ steps.commits.outputs.count }} | PRs: ${{ steps.prs.outputs.count }}\",
+            \"color\": \"blue\"
+          }" > badges/daily.json
+
+      - name: Upload badge artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-badge
+          path: badges/daily.json
