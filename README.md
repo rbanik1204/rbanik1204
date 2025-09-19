@@ -453,7 +453,7 @@ I am learning and working with various technologies, which I have organized by c
 <details>
   <summary>👨‍💻<b>Competitive Programming</b></summary>
 
-I actively practice problem-solving to sharpen my logical and algorithmic thinking. You can find my profiles here:
+<b>I actively practice problem-solving to sharpen my logical and algorithmic thinking. You can find my profiles here:</b>
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/ratulbanik2004"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"></a>
@@ -466,10 +466,6 @@ I actively practice problem-solving to sharpen my logical and algorithmic thinki
 </div>
 </details>
   
-<div align="center" height="20px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-</div>
-
 ## 🐍 **GitHub Snake Contribution Animation**
 
 ### 🌟 **Main Contribution Snake**
