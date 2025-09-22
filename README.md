@@ -102,7 +102,9 @@
 </details>
 <details>
   <summary>🌟<b>Skill Matrix</b></summary>
+  
 ### 🎯 **Experience Levels**
+
 <table width="100%">
   <tr>
     <td width="33%" align="center">
@@ -127,6 +129,7 @@
 </table>
 
 ### 📚 **Learning Roadmap**
+
 <p align="center">
   <strong>Current Focus:</strong> JavaScript → React → MERN Stack → Advanced AI
   <br/>
@@ -167,6 +170,7 @@
 </table>
 
 ### 🏆 **Recent Achievements**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Achievement-GitHub_Snake_Working-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Snake Working"/>
   <img src="https://img.shields.io/badge/Status-README_Premium-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="README Premium"/>
@@ -177,7 +181,9 @@
 </details>
 <details>
   <summary>📊<b>Advanced Analytics & Insights</b></summary>
+  
 ### 🚀 **GitHub Analytics & Performance**
+
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
@@ -190,27 +196,32 @@
 </table>
 
 ### 🔥 **Coding Streak & Consistency**
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10&card_width=800" alt="Ratul's GitHub Streak" />
 </p>
 
 
 ### 📈 **Detailed Language Statistics**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rbanik1204&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&border_radius=10&card_width=800&hide=html,css,scss,makefile" alt="Language Distribution" />
 </p>
 
 ### 🎯 **Repository Insights**
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=rbanik1204&repo=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Profile Repository" />
 </p>
 
 ### 📊 **Contribution Graph**
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbanik1204&theme=tokyonight&hide_border=true&area=true&area_color=1f1f23&line=61dafb&point=61dafb&color=61dafb&bg_color=0d1117&hide_title=true&radius=8" alt="Contribution Graph" />
 </p>
 
 ### 🏅 **Profile Summary Cards**
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rbanik1204&theme=tokyonight&hide_border=true&border_radius=10" alt="Profile Details" />
 </p>
@@ -240,6 +251,7 @@
   <summary>🚀<b>Featured Projects & Achievements</b></summary>
 
 ### 🎯 **Project Showcase**
+
 *Coming Soon! I'm currently building amazing projects that will be showcased here once they're ready for GitHub.* 🚀
 
 **What I'm Working On:**
@@ -291,6 +303,7 @@
 <summary>🌟<b>Collaboration Hub & Open Source</b></summary>
 
 ### 🌟 **Areas of Interest**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Open_Source-Contributor-green?style=for-the-badge&logo=github&logoColor=white" alt="Open Source Contributor"/>
   <img src="https://img.shields.io/badge/Web_Development-Collaborator-blue?style=for-the-badge&logo=react&logoColor=black" alt="Web Development"/>
@@ -327,6 +340,7 @@
   <summary>📱<b>Mobile-First Design & Interactive Elements</b></summary>
 
 ### 🎨 **Design Features**
+
 <div align="center">
   
   <table width="100%">
@@ -355,6 +369,7 @@
 </div>
 
 ### 🌟 **Interactive Features**
+
 <details>
 <summary>🎭 **Click to see Interactive Elements**</summary>
 
@@ -469,10 +484,12 @@ I am learning and working with various technologies, which I have organized by c
 ## 🐍 **GitHub Snake Contribution Animation**
 
 ### 🌟 **Main Contribution Snake**
+
 ![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
 
 
 ### 🎨 **Alternative Snake Styles**
+
 <table width="100%">
   <tr>
     <td width="33%" align="center">
@@ -511,6 +528,7 @@ I am learning and working with various technologies, which I have organized by c
 <div align="center">
   
   ### 🚀 **Ready to Collaborate?**
+  
   **I'm always excited to work on innovative projects and learn from amazing developers like you!**
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
 <div>  
