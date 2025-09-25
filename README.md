@@ -547,7 +547,7 @@ I am learning and working with various technologies, which I have organized by c
   [![GitHub](https://img.shields.io/badge/GitHub-Check_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
    
 
-Feel free to reach out. I'm always open to connecting with new people!
+### **Feel free to reach out.**
 </div>
 <p align="center">
   <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
