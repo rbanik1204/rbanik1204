@@ -1,7 +1,6 @@
 <a href="https://www.linkedin.com/in/ratul-banik1204/">
   <img src="./banner_github.png" alt="clickable" width="100%"/>
 </a>
- 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
@@ -173,6 +172,9 @@
 
 ### 🏆 **Recent Achievements**
 
+### 🏆 GitHub Trophies
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Achievement-GitHub_Snake_Working-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Snake Working"/>
   <img src="https://img.shields.io/badge/Status-README_Premium-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="README Premium"/>
@@ -284,7 +286,10 @@
     </td>
   </tr>
 </table>
-
+<h2 align="center">🏆 GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rbanik1204&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&title=Followers,Stars,Commits,Repositories,PullRequest,Issues,Contributions" alt="GitHub Trophies" />
+</p>
 ### 📈 **Current Learning Status**
 
 <p align="center">
