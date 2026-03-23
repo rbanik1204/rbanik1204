@@ -1,10 +1,10 @@
 <a href="https://www.linkedin.com/in/ratul-banik1204/">
-  <img src="./banner_github.png" alt="clickable" width="100%"/>
+  <img src="~/assets/working-on.gif" alt="clickable" width="100%"/>
 </a>
 
 
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
-<div align="center" height="40px">
+<!-- <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 <div align="center">
@@ -584,4 +584,32 @@ I am learning and working with various technologies, which I have organized by c
     <strong>Made with ❤️ by rb</strong>
     <br/>
     <em>I use arch BTW</em>
-  </p>
+  </p> -->
+  
+## 🐍 **GitHub Snake Contribution Animation**
+
+### 🌟 **Main Contribution Snake**
+
+![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
+
+
+### 🎨 **Alternative Snake Styles**
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <strong>🌊 Dark Theme</strong><br/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="300"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>🎨 Classic Theme</strong><br/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg" alt="Classic Snake" width="300"/>
+    </td>
+    <td width="33%" align="center">
+      <strong>🌊 Ocean Theme</strong><br/>
+             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-ocean.svg" alt="Ocean Snake" width="300"/>
+    </td>
+  </tr>
+</table>
+
+---
