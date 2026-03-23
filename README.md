@@ -2,9 +2,10 @@
 <!-- <a href="https://www.linkedin.com/in/ratul-banik1204/">
   <img src="~/assets/working-on.gif" alt="clickable" width="100%"/>
 </a>
+🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
  -->
 
-🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
+
 <!-- <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
