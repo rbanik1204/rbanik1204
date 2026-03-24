@@ -595,23 +595,3 @@ I am learning and working with various technologies, which I have organized by c
 ![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
 
 
-### 🎨 **Alternative Snake Styles**
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <strong>🌊 Dark Theme</strong><br/>
-             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-dark.svg" alt="Dark Snake" width="300"/>
-    </td>
-    <td width="33%" align="center">
-      <strong>🎨 Classic Theme</strong><br/>
-             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg" alt="Classic Snake" width="300"/>
-    </td>
-    <td width="33%" align="center">
-      <strong>🌊 Ocean Theme</strong><br/>
-             <img src="https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-contribution-grid-snake-ocean.svg" alt="Ocean Snake" width="300"/>
-    </td>
-  </tr>
-</table>
-
----
