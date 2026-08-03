@@ -1,12 +1,12 @@
 <img src="assets/working-on.gif" alt="wavy separator" width="100%" height="500px"/>
-<!-- <a href="https://www.linkedin.com/in/ratul-banik1204/">
-  <img src="~/assets/working-on.gif" alt="clickable" width="100%"/>
+ <a href="https://www.linkedin.com/in/ratul-banik1204/">
+  <img src="assets/working-on.gif" alt="clickable" width="100%"/>
 </a>
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
- -->
+ 
 
 
-<!-- <div align="center" height="40px">
+ <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
 </div>
 <div align="center">
@@ -113,19 +113,19 @@
 <table width="100%">
   <tr>
     <td width="33%" align="center">
-      <h4>🚀 **Strong Foundation**</h4>
+      <h4>🚀 <strong>Strong Foundation</strong></h4>
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/HTML/CSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/>
     </td>
     <td width="33%" align="center">
-      <h4>⚡ **Good Understanding**</h4>
+      <h4>⚡ <strong>Good Understanding</strong></h4>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     </td>
     <td width="33%" align="center">
-      <h4>🌱 **Currently Learning**</h4>
+      <h4>🌱 <strong>Currently Learning</strong></h4>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
@@ -146,13 +146,13 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h4>🚀 **MERN Stack Development**</h4>
+      <h4>🚀 <strong>MERN Stack Development</strong></h4>
       <strong>Status: Actively Learning</strong>
       <br/><br/>
       <em>Currently working on React, Node.js, and Express fundamentals</em>
     </td>
     <td width="50%" align="center">
-      <h4>💼 **Career Preparation**</h4>
+      <h4>💼 <strong>Career Preparation</strong></h4>
       <strong>Status: Building Portfolio</strong>
       <br/><br/>
       <em>Working on projects and improving skills for opportunities</em>
@@ -160,13 +160,13 @@
   </tr>
   <tr>
     <td width="50%" align="center">
-      <h4>🧠 **DSA & Problem Solving**</h4>
+      <h4>🧠 <strong>DSA & Problem Solving</strong></h4>
       <strong>Status: Regular Practice</strong>
       <br/><br/>
       <em>Solving problems on LeetCode and HackerRank</em>
     </td>
     <td width="50%" align="center">
-      <h4>🤖 **AI & Machine Learning**</h4>
+      <h4>🤖 <strong>AI & Machine Learning</strong></h4>
       <strong>Status: Basic Understanding</strong>
       <br/><br/>
       <em>Learning Python fundamentals and basic ML concepts</em>
@@ -359,19 +359,19 @@
   <table width="100%">
     <tr>
       <td width="33%" align="center">
-        <h4>📱 **Mobile Friendly**</h4>
+        <h4>📱 <strong>Mobile Friendly</strong></h4>
         <img src="https://img.shields.io/badge/Responsive-Design-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Mobile Responsive"/>
         <br/><br/>
         <strong>Optimized for all devices</strong>
       </td>
       <td width="33%" align="center">
-        <h4>⚡ **Clean Layout**</h4>
+        <h4>⚡ <strong>Clean Layout</strong></h4>
         <img src="https://img.shields.io/badge/Clean-Code-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Clean Code"/>
         <br/><br/>
         <strong>Well-organized structure</strong>
       </td>
       <td width="33%" align="center">
-        <h4>🎯 **Professional**</h4>
+        <h4>🎯 <strong>Professional</strong></h4>
         <img src="https://img.shields.io/badge/Professional-README-61dafb?style=for-the-badge&logo=github&logoColor=black" alt="Professional README"/>
         <br/><br/>
         <strong>Industry standard format</strong>
@@ -384,7 +384,7 @@
 ### 🌟 **Interactive Features**
 
 <details>
-<summary>🎭 **Click to see Interactive Elements**</summary>
+<summary>🎭 <strong>Click to see Interactive Elements</strong></summary>
 
 - **🔄 Auto-updating stats** from GitHub APIs
 - **📊 Dynamic charts** that update in real-time
@@ -400,7 +400,7 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h4>📊 **Content Quality**</h4>
+      <h4>📊 <strong>Content Quality</strong></h4>
       <img src="https://img.shields.io/badge/Content-Professional-00ff00?style=for-the-badge&logo=github&logoColor=black" alt="Professional Content"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Structure-Organized-blue?style=for-the-badge&logo=github&logoColor=white" alt="Well Organized"/>
@@ -408,7 +408,7 @@
       <strong>Clear and informative</strong>
     </td>
     <td width="50%" align="center">
-      <h4>🚀 **User Experience**</h4>
+      <h4>🚀 <strong>User Experience</strong></h4>
       <img src="https://img.shields.io/badge/Design-Clean-ff6b6b?style=for-the-badge&logo=github&logoColor=white" alt="Clean Design"/>
       <br/><br/>
       <img src="https://img.shields.io/badge/Layout-Professional-61dafb?style=for-the-badge&logo=github&logoColor=black" alt="Professional Layout"/>
@@ -531,24 +531,26 @@ I am learning and working with various technologies, which I have organized by c
   <img src="https://img.shields.io/badge/Node.js-40%25-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-40%25-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 
-<div align="center" height="90px">
-  <img src="assets/divider-blue.gif" alt="wavy separator" width="100%" height="90px"/>
-  </div
+  <div align="center" height="90px">
+    <img src="assets/divider-blue.gif" alt="wavy separator" width="100%" height="90px"/>
+  </div>
 </div>
 
-
 ### 🌟 **Let's Build Something Amazing Together!**
+
 <div align="center">
   
   ### 🚀 **Ready to Collaborate?**
   
   **I'm always excited to work on innovative projects and learn from amazing developers like you!**
   <p><em>Let's connect and build something incredible together! 🚀</em></p>
-<div>  
-  <div align="center">
+
+</div>
+
+<div align="center">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="90px"/>
-  </div>
-  
+</div>
+
 <div align="center">
   
   ### 📫 **Get in Touch**
@@ -556,42 +558,35 @@ I am learning and working with various technologies, which I have organized by c
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-banik1204/)
   [![Email](https://img.shields.io/badge/Email-Discuss_Project-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-Check_Projects-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
-   
 
-### **Feel free to reach out.**
+  ### **Feel free to reach out.**
+
+  <p align="center">
+    <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/ratul-banik1204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    &nbsp;
+    <a href="https://x.com/r_banik1204"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
+    &nbsp;
+    <a href="https://www.reddit.com/user/AwareZookeepergame67/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+    &nbsp;
+    <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  </p>
+
 </div>
-<p align="center">
-  <a href="mailto:ratulbanik1204@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/ratul-banik1204/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  &nbsp;
-  <a href="https://x.com/r_banik1204"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  &nbsp;
-  <a href="https://www.reddit.com/user/AwareZookeepergame67/"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
-  &nbsp;
-  <a href="https://discordapp.com/users/ratul4756"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-</p>
 
 <div align="center" height="90px">
   <img src="assets/red-divider.gif" alt="wavy separator" width="100%" height="90px"/>
 </div>
-  
-</div>
+
 <div align="center">
   
   <h3>🌟 <strong>Thanks for visiting my profile!</strong> 🌟</h3>
-</div>
-  
+
   <p align="center">
     <strong>Made with ❤️ by rb</strong>
     <br/>
     <em>I use arch BTW</em>
-  </p> -->
+  </p>
 
-## 🐍 **GitHub Snake Contribution Animation**
-
-### 🌟 **Main Contribution Snake**
-
-![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
-
-
+</div>
