@@ -1,6 +1,5 @@
 <img src="assets/working-on.gif" alt="wavy separator" width="100%" height="500px"/>
  <a href="https://www.linkedin.com/in/ratul-banik1204/">
-  <img src="assets/working-on.gif" alt="clickable" width="100%"/>
 </a>
 🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
  
