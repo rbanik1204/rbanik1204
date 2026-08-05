@@ -1,4 +1,5 @@
-<a href="banner_github.png">🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)<a>
+<img src="banner_github.png" alt="could not load" width="600" height="400">
+🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
 
  <div align="center" height="40px">
   <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
