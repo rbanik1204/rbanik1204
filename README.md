@@ -1,13 +1,8 @@
 <img src="banner_github.png" alt="could not load" width="600" height="400">
-🔗 Click the banner above to visit my [LinkedIn](https://www.linkedin.com/in/ratul-banik1204/)
-
- <div align="center" height="40px">
-  <img src="assets/wavy_separator_blue.gif" alt="wavy separator" width="100%" height="50px"/>
-</div>
 <div align="center">
   
   ### 🚀 **Ratul Banik** 
-  #### *Mid-Level dev*
+  #### *Mid-Level dev ☕*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-banik1204/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
