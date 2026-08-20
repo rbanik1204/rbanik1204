@@ -14,7 +14,11 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
 
 
+### 🔥 **GitHub Streak**
 
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rbanik1204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 📊 **Contribution Graph**
 
