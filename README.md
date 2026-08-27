@@ -25,14 +25,6 @@
 
 🟢 **Status:** In Progress
 
-### 📊 **Contribution Graph**
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rbanik1204&theme=tokyonight&hide_border=true&area=true&area_color=1f1f23&line=61dafb&point=61dafb&color=61dafb&bg_color=0d1117&hide_title=true&radius=8" alt="Contribution Graph" />
-</p>
-
-
-
 ### 🌟 **Main Contribution Snake**
 
 ![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
