@@ -9,7 +9,7 @@
   [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rbanik1204)
 
 
-
+[![Rank: S](https://img.shields.io/badge/Rank-S-blueviolet)](https://github.com/rbanik1204)
 ### 🔥 **GitHub Streak**
 
 <p align="center">
