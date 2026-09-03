@@ -6,8 +6,7 @@
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-banik1204/)
   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ratulbanik1204@gmail.com)
-<img src="https://github-readme-stats.vercel.app/api?username=rbanik1204&theme=radical&hide_border=false" alt="GitHub Rank Card">
-<p align="center">
+
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rbanik1204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
