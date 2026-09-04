@@ -10,10 +10,6 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rbanik1204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-
-🟢 **Status:** In Progress
-
 ### 🌟 **Main Contribution Snake**
 
 ![GitHub Snake](https://raw.githubusercontent.com/rbanik1204/rbanik1204/master/dist/github-snake.svg)
