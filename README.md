@@ -10,13 +10,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rbanik1204&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 🚧 Currently Working On
 
-[![Project](https://img.shields.io/badge/🚀_Project-View_Repository-61dafb?style=for-the-badge)](https://github.com/rbanik1204/HTML-CSS-JS-complete/tree/master/HTML_CSS_JS_PRACTICE/HTML_CSS_JS_REVISIT%2003/ultraEdit)
-
-**Project Name** — UltraEdit 
-
-`vcss` `Node.js` `express.js` `MongoDB`
 
 🟢 **Status:** In Progress
 
