@@ -1,6 +1,5 @@
 <div align="center">
   
-  ### 🚀 **Ratul Banik** 
   #### *Mid-Level dev ☕*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratul-banik1204/)
